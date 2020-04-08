@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import NavBar from '../NavBar';
 
 
 class Kurs extends Component {
@@ -8,7 +9,9 @@ class Kurs extends Component {
     }
     render() {
         return (
-            <section></section>
+            <section>
+                <NavBar />
+            </section>
         );
     }
 }
