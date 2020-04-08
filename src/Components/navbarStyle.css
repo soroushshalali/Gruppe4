@@ -1,0 +1,35 @@
+.navbar{
+    background-color:rgb(9, 14, 45);
+    color: #3DD7AC;
+    display: grid;
+    grid-template-columns: 20% 20% 30%;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5vh 5%;
+}
+.navbar >img{
+    width: 200px;
+}
+.navbar > ul{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+}
+.navbar > ul > li > a{
+    color: #3DD7AC;
+    text-decoration: none;
+    font-family: 'Fira Sans';
+    font-weight: 1000;
+    font-size: 2em;
+}
+.navbar > span{
+    background-color: #3DD7AC;
+    color: white;
+    font-size: 1.5em;
+    font-family: 'Fira Sans';
+    font-weight: 1000;
+    border-radius: 2px;
+    width: 100%;
+    padding: 2vh;
+    box-shadow: 0px 0px 4px rgba(255, 255, 255, 0.37);
+}
