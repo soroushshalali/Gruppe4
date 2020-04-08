@@ -33,15 +33,16 @@ class Start extends Component {
     }
     render() {
         return (
-            <main>
+            <main className="startMain" >
                 <NavBar />
                 <section>
                     <StartsItem frage="wie ist deine Kentnisse in Html?" funcRange={this.handleChange} name="html" />
                     <StartsItem frage="wie ist deine Kentnisse in css?" funcRange={this.handleChange} name="css" />
                     <StartsItem frage="wie ist deine Kentnisse in JS?" funcRange={this.handleChange} name="js" />
                     <h1>{this.state.result}</h1>
+                    <button onClick={this.result} >Submit</button>
                 </section>
-                <button onClick={this.result} >Submit</button>
+
             </main>
         );
     }

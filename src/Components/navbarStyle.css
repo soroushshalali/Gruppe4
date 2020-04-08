@@ -7,7 +7,7 @@
     justify-content: space-between;
     padding: 5vh 5%;
 }
-.navbar >img{
+.navbar > a > img{
     width: 200px;
 }
 .navbar > ul{
@@ -21,6 +21,9 @@
     font-family: 'Fira Sans';
     font-weight: 1000;
     font-size: 2em;
+}
+.navbar > ul > li > a:hover{
+text-decoration: underline;
 }
 .navbar > span{
     background-color: #3DD7AC;

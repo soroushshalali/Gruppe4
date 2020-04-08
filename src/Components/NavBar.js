@@ -7,7 +7,8 @@ class NavBar extends Component {
     render() {
         return (
             <nav className="navbar" >
-                <img src={logo} />
+                <Link to='/' ><img src={logo} /></Link>
+
                 <span>+49 211 7817 233-0</span>
                 <ul>
                     <li><Link to='/' >Home</Link></li>
