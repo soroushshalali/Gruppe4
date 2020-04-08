@@ -1,0 +1,98 @@
+[
+    {
+        "name": "HTML",
+        "description": "description-text-für-html-aufgabe-x.y",
+        "skillRating": 0,
+        "pictureUrl": "./images/01",
+        "sourceLink": "./links.js",
+        "easy": true
+    },
+    {
+        "name": "HTML",
+        "description": "Wir müssen sicherstellen, dass die Software sowohl auf unterschiedlichen Browsern als auch auf unter- schiedlichen Endgeräten funktioniert. ",
+        "skillRating": 1,
+        "pictureUrl": "./images/01",
+        "sourceLink": "./links.js",
+        "easy": true
+    },
+    {
+        "name": "HTML",
+        "description": "Viele Webseiten enthalten Listen , deshalb hält HTML dafür Elemente bereit. Die Kennzeichnung von Listen besteht immer aus zwei Elementen. Man unterscheidet geordnete und ungeordnete Listen.",
+        "skillRating": 2,
+        "pictureUrl": "./images/01",
+        "sourceLink": "./links.js",
+        "easy": true
+    },
+    {
+        "name": "HTML",
+        "description": "description-text-für-html-aufgabe-x.y",
+        "skillRating": 3,
+        "pictureUrl": "./images/01",
+        "sourceLink": "./links.js",
+        "easy": true
+    },
+    {
+        "name": "HTML",
+        "description": "description-text-für-html-aufgabe-x.y",
+        "skillRating": 4,
+        "pictureUrl": "./images/01",
+        "sourceLink": "./links.js",
+        "easy": true
+    },
+    {
+        "name": "HTML",
+        "description": "description-text-für-html-aufgabe-x.y",
+        "skillRating": 4,
+        "pictureUrl": "./images/01",
+        "sourceLink": "./links.js",
+        "easy": true
+    },
+    {
+        "name": "HTML",
+        "description": "description-text-für-html-aufgabe-x.y",
+        "skillRating": 5,
+        "pictureUrl": "./images/01",
+        "sourceLink": "./links.js",
+        "easy": true
+    },
+    {
+        "name": "HTML",
+        "description": "description-text-für-html-aufgabe-x.y",
+        "skillRating": 6,
+        "pictureUrl": "./images/01",
+        "sourceLink": "./links.js",
+        "easy": true
+    },
+    {
+        "name": "HTML",
+        "description": "description-text-für-html-aufgabe-x.y",
+        "skillRating": 7,
+        "pictureUrl": "./images/01",
+        "sourceLink": "./links.js",
+        "easy": true
+    },
+    {
+        "name": "HTML",
+        "description": "description-text-für-html-aufgabe-x.y",
+        "skillRating": 8,
+        "pictureUrl": "./images/01",
+        "sourceLink": "./links.js",
+        "easy": true
+    },
+    {
+        "name": "HTML",
+        "description": "description-text-für-html-aufgabe-x.y",
+        "skillRating": 9,
+        "pictureUrl": "./images/01",
+        "sourceLink": "./links.js",
+        "easy": true
+    },
+    {
+        "name": "HTML",
+        "description": "description-text-für-html-aufgabe-x.y",
+        "skillRating": 10,
+        "pictureUrl": "./images/01",
+        "sourceLink": "./links.js",
+        "easy": true
+    }
+]
