@@ -4,13 +4,15 @@ import './App.css';
 import Home from './Components/Home';
 import { BrowserRouter, Route } from 'react-router-dom'
 import Kurs from './Components/Kurs/Kurs';
+import Start from './Components/Start/Start';
 
 function App() {
   return (
     <BrowserRouter>
       <div className="App">
         <Route path='/' component={Home} exact />
-        <Route path='/Kurs/Kurs' component={Kurs} exact />
+        <Route path='/kurs' component={Kurs} />
+        <Route path='/start' component={Start} />
       </div>
     </BrowserRouter>
   );

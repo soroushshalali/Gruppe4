@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import NavBar from '../NavBar';
 
 import KursItem from './Components/Kurs/KursItem';
 import kursdata from './data.json';
@@ -44,6 +45,7 @@ class Kurs extends Component {
     }
     render() {
         return (
+<<<<<<< HEAD
 
             <main>
                 <section>
@@ -58,6 +60,11 @@ class Kurs extends Component {
 
                 }
             </main>
+=======
+            <section>
+                <NavBar />
+            </section>
+>>>>>>> 24b2b3ace2924edb84cbf735377d066214ce4c81
         );
     }
 }
