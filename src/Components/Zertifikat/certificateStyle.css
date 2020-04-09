@@ -82,3 +82,8 @@ transition: 0.3s;
     border: 1px solid #3DD7AC;
    
 }
+.fragebogen-main{
+    background-color:rgb(9, 14, 45);
+    padding: 2vh;
+    color: white;
+}
