@@ -1,0 +1,84 @@
+.certifi-SEC{
+    text-align: left;
+    margin-bottom: 8vh;
+}
+.certifi-SEC > h1{
+  font-size: 2.5em;
+}
+.certifi-SEC > p{
+    margin-bottom: 5vh;
+    letter-spacing: 1px;
+}
+.certifi-SEC > a{
+    text-decoration: none;
+    background-color: rgb(255, 255, 125);
+    padding: 10px 40px;
+    border-radius: 10px;
+    font-weight: 700;
+    transition: 0.2s;
+    box-shadow: 0px 0px 10px black;
+}
+.certifi-SEC > a:hover{
+    background-color: rgba(255, 255, 125, 0.342);
+    color: white;
+}
+.certi-main{
+    background-color:rgb(9, 14, 45);
+    color: #3DD7AC;
+    color: white;
+    padding: 2vh 7%;
+    height: 100vh;
+    font-family: 'Fira Sans';
+}
+.goodluck-main{
+    background-color:rgb(9, 14, 45);
+    color: white;
+    text-align: left;
+    padding: 2vh 7%;
+    font-family: 'Fira Sans';
+    height: 76vh;
+}
+.goodluckItem-sec >div:nth-of-type(1) > h1{
+font-size: 4em;
+margin-bottom: 0;
+}
+.goodluckItem-sec >div:nth-of-type(1) > p{
+margin-bottom: 0;
+letter-spacing: 1px;
+}
+.goodluckItem-sec >div:nth-of-type(2) > h1{
+font-size: 2em;
+margin-bottom: 0;
+}
+.goodluckItem-sec >div:nth-of-type(2) > p{
+letter-spacing: 1px;
+}
+.goodluckItem-sec >div:nth-of-type(2) > ul{
+    letter-spacing: 1px;
+    margin-bottom: 4vh;
+    font-weight: 1000;
+}
+.goodluckItem-sec >span{
+    font-size: 1em;
+    letter-spacing: 2px;
+    font-weight: 700;
+    display: block;
+    margin-bottom: 4vh;
+}
+.goodluckItem-sec > a{
+background-color: red;
+padding: 15px 100px;
+background-color: #3DD7AC;
+color: white;
+text-decoration: none;
+letter-spacing: 5px;
+font-size: 2em;
+font-weight: 1000;
+border-radius: 4px;
+transition: 0.3s;
+}
+.goodluckItem-sec > a:hover{
+    background-color:rgb(9, 14, 45);
+    border: 1px solid #3DD7AC;
+   
+}

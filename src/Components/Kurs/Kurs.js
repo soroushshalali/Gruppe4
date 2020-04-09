@@ -2,13 +2,12 @@ import React, { Component } from 'react';
 import NavBar from '../NavBar';
 
 import KursItem from './Components/Kurs/KursItem';
-import kursdata from './data.json';
+import kursData from './data.json';
 import './kurs.css';
 class Kurs extends Component {
     constructor(props) {
         super(props);
         this.state = {
-
             data: kursData,
             skillName: true,
             skillDescribtion: true,
@@ -45,9 +44,9 @@ class Kurs extends Component {
     }
     render() {
         return (
-<<<<<<< HEAD
 
             <main>
+                <NavBar />
                 <section>
                     <button onClick={this.sortByName} >Skills von A bis Z</button>
                     <button onClick={this.sortByRating} >Skills nach Rating</button>
@@ -60,11 +59,7 @@ class Kurs extends Component {
 
                 }
             </main>
-=======
-            <section>
-                <NavBar />
-            </section>
->>>>>>> 24b2b3ace2924edb84cbf735377d066214ce4c81
+
         );
     }
 }

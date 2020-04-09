@@ -9,7 +9,6 @@ class Home extends Component {
     render() {
         return (
             <main>
-                <NavBar />
                 <h1>Hi</h1>
             </main>
         );

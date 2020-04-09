@@ -6,16 +6,18 @@ class NavBar extends Component {
     state = {}
     render() {
         return (
-            <nav className="navbar" >
-                <Link to='/' ><img src={logo} /></Link>
-
-                <span>+49 211 7817 233-0</span>
-                <ul>
-                    <li><Link to='/' >Home</Link></li>
-                    <li><Link to='/Kurs' >Kurs</Link></li>
-                    <li><Link to='/Start' >Start</Link></li>
-                </ul>
-            </nav>
+            <section>
+                <nav className="navbar" >
+                    <Link to='/' ><img src={logo} /></Link>
+                    <span>+49 211 7817 233-0</span>
+                    <ul>
+                        <li><Link to='/' >Home</Link></li>
+                        <li><Link to='/Kurs' >Kurs</Link></li>
+                        <li><Link to='/Start' >Start</Link></li>
+                        <li><Link to='/Certificate' >Certificate</Link></li>
+                    </ul>
+                </nav>
+            </section>
         );
     }
 }

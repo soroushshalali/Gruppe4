@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import StartsItem from './StartsItem';
 import NavBar from '../NavBar';
+import { Link } from 'react-router-dom'
 class Start extends Component {
     state = {
         stateHtml: 0,
@@ -34,13 +35,12 @@ class Start extends Component {
     render() {
         return (
             <main className="startMain" >
-                <NavBar />
                 <section>
                     <StartsItem frage="wie ist deine Kentnisse in Html?" funcRange={this.handleChange} name="html" />
                     <StartsItem frage="wie ist deine Kentnisse in css?" funcRange={this.handleChange} name="css" />
                     <StartsItem frage="wie ist deine Kentnisse in JS?" funcRange={this.handleChange} name="js" />
-                    <h1>{this.state.result}</h1>
                     <button onClick={this.result} >Submit</button>
+                    <h1>{this.state.result}</h1>
                 </section>
 
             </main>

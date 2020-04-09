@@ -1,5 +1,9 @@
 .startDiv{
-    
+    display: grid;
+    grid-template-columns: 40% 40%;
+}
+.startDiv > h1{
+    font-size: 2em;
 }
 .startMain{
     background-color: rgb(9, 14, 45);

@@ -2,7 +2,7 @@
     background-color:rgb(9, 14, 45);
     color: #3DD7AC;
     display: grid;
-    grid-template-columns: 20% 20% 30%;
+    grid-template-columns: 20% 20% 40%;
     align-items: center;
     justify-content: space-between;
     padding: 5vh 5%;
