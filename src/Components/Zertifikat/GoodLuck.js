@@ -15,7 +15,7 @@ HTML is used to format text, create hyperlinks, tables, lists, forms, display im
 By mastering HTML you will be able to develop and maintain web pages unlimited to a particular software program's features.
 
 The HTML Developer Certificate proves fundamental knowledge of web development using HTML."  li="The Hypertext Markup Language - HTML
-" to='/' />
+" link='/Fragebogen' />
             </main>
         );
     }
