@@ -1,67 +1,27 @@
 import React, { Component } from 'react';
 import NavBar from '../NavBar';
-
-import KursItem from './Components/Kurs/KursItem';
-import kursData from './data.json';
+import KursItem from './KursItem';
+import kursdata from './data.json';
 import './kurs.css';
+
 class Kurs extends Component {
-    constructor(props) {
-        super(props);
-        this.state = {
-            data: kursData,
-            skillName: true,
-            skillDescribtion: true,
-            skillRating: true,
-        }
-        randomSkill = () => {
-            const randomSkill = kursData[Math.floor(Math.random() * kursdata.length)]
-            const data = this.state.KursData
-            kursData.push(randomKursData)
-            this.setState({ randomSkill });
-        }
+    state = {
+        kursdata: true
 
-        sortByName = () => {
-
-
-            if (this.state.name) {
-
-                const name = this.state.kursdata.sort((a, b) => a.name < b.name ? -1 : a.name > b.name ? 1 : 0)
-                this.setState({ kursData });
-                this.setState({ skillName: false })
-
-            } else {
-                const name = this.state.kursdata.sort((a, b) => a.name < b.name ? -1 : a.name > b.name ? -1 : 0)
-                this.setState({ kursDdata });
-                this.setState({ skillName: true })
-            }
-
-        }
-        sortByRating = () => {
-            const skillRating = this.state.kursData.sort((a, b) => a.rating < b.rating ? 1 : a.rating > b.rating ? -1 : 0)
-            this.setState({ skillRating });
-        }
-
+    }
+    sortByRating = () => {
+        const kursdata = this.state.kursdata.sort((x, y) => x.rating < y.rating ? 1 : x.rating > y.rating ? -1 : 0)
+        this.setState({ kursdata });
     }
     render() {
+        const mapArray = kursdata.map((el, i) => {
+            return <KursItem name={el.name}
+                pictureUrl={el.pictureUrl}
+                rating={el.rating}
+                key={i} />
+        })
         return (
-
-            <main>
-                <NavBar />
-                <section>
-                    <button onClick={this.sortByName} >Skills von A bis Z</button>
-                    <button onClick={this.sortByRating} >Skills nach Rating</button>
-                    <button onClick={this.sortByRandom} >Zufälliger Skill</button>
-                </section>
-                {this.state.kursData.map((data, i) =>
-                    <KursItem name={data.name} describtion={this.props.describtion}
-                        pictureUrl={data.pictureUrl} skillRating={data.rating}
-                        linkData={this.props.href} key={i} />)
-
-                }
-            </main>
-
-        );
+            <section>{mapArray}</section>)
     }
 }
-
 export default Kurs;

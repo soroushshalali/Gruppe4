@@ -94,5 +94,93 @@
         "pictureUrl": "./images/01",
         "sourceLink": "./links.js",
         "easy": true
+    },
+    {
+        "name": "CSS",
+        "description": "description-text-für-css-aufgabe-x.y",
+        "skillRating": 0,
+        "pictureUrl": "./images/01",
+        "sourceLink": "./links.js",
+        "medium": true
+    },
+    {
+        "name": "CSS",
+        "description": "description-text-für-css-aufgabe-x.y",
+        "skillRating": 1,
+        "pictureUrl": "./images/01",
+        "sourceLink": "./links.js",
+        "medium": true
+    },
+    {
+        "name": "CSS",
+        "description": "description-text-für-css-aufgabe-x.y",
+        "skillRating": 2,
+        "pictureUrl": "./images/01",
+        "sourceLink": "./links.js",
+        "medium": true
+    },
+    {
+        "name": "CSS",
+        "description": "description-text-für-css-aufgabe-x.y",
+        "skillRating": 3,
+        "pictureUrl": "./images/01",
+        "sourceLink": "./links.js",
+        "medium": true
+    },
+    {
+        "name": "CSS",
+        "description": "description-text-für-css-aufgabe-x.y",
+        "skillRating": 4,
+        "pictureUrl": "./images/01",
+        "sourceLink": "./links.js",
+        "medium": true
+    },
+    {
+        "name": "CSS",
+        "description": "description-text-für-css-aufgabe-x.y",
+        "skillRating": 5,
+        "pictureUrl": "./images/01",
+        "sourceLink": "./links.js",
+        "medium": true
+    },
+    {
+        "name": "CSS",
+        "description": "description-text-für-css-aufgabe-x.y",
+        "skillRating": 6,
+        "pictureUrl": "./images/01",
+        "sourceLink": "./links.js",
+        "medium": true
+    },
+    {
+        "name": "CSS",
+        "description": "description-text-für-css-aufgabe-x.y",
+        "skillRating": 7,
+        "pictureUrl": "./images/01",
+        "sourceLink": "./links.js",
+        "medium": true
+    },
+    {
+        "name": "CSS",
+        "description": "description-text-für-css-aufgabe-x.y",
+        "skillRating": 8,
+        "pictureUrl": "./images/01",
+        "sourceLink": "./links.js",
+        "medium": true
+    },
+    {
+        "name": "CSS",
+        "description": "description-text-für-css-aufgabe-x.y",
+        "skillRating": 9,
+        "pictureUrl": "./images/01",
+        "sourceLink": "./links.js",
+        "medium": true
+    },
+    {
+        "name": "CSS",
+        "description": "description-text-für-css-aufgabe-x.y",
+        "skillRating": 10,
+        "pictureUrl": "./images/01",
+        "sourceLink": "./links.js",
+        "medium": true
     }
 ]
