@@ -25,11 +25,11 @@ class Start extends Component {
     }
     result = () => {
         if (this.state.stateSum < 11) {
-            this.setState({ result: "Anfänger" });
+            this.setState({ result: "Du bist Anfänger" });
         } else if (this.state.stateSum < 20) {
-            this.setState({ result: "das Wort ,das ich nicht weiß" });
+            this.setState({ result: "Du bist gut aber noch nicht Super" });
         } else {
-            this.setState({ result: "Super" });
+            this.setState({ result: "Du bist Super" });
         }
     }
     render() {

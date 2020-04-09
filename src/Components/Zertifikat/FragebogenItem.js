@@ -14,12 +14,6 @@ class FragebogenItem extends Component {
                     <option>{this.props.value2}</option>
                     <option>{this.props.value3}</option>
                 </select>
-                {/* {this.props.opt1}
-                <input onChange={this.props.radioFunc} type="radio" name={this.props.name} value={this.props.value1} />
-                {this.props.opt2}
-                <input onChange={this.props.radioFunc} type="radio" name={this.props.name} value={this.props.value2} />
-                {this.props.opt3}
-                <input onChange={this.props.radioFunc} type="radio" name={this.props.name} value={this.props.value3} /> */}
             </section>
         );
     }

@@ -20,7 +20,7 @@ class Fragebogen extends Component {
     }
     func = () => {
         if (this.state.result < 5) {
-            this.setState({ text: "Oooops" });
+            this.setState({ text: "Versuch mal noch,Super zu werden" });
         } else {
             this.setState({ text: "du bist Super geworden." });
         }
