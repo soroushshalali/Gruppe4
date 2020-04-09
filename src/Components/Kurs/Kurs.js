@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React, { Component } from 'react';
 import NavBar from '../NavBar';
 import KursItem from './KursItem';
@@ -27,3 +28,5 @@ class Kurs extends Component {
     }
 }
 export default Kurs;
+=======
+>>>>>>> aaf84422878ac5529e657fee78b0b63b229bcf96
