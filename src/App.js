@@ -9,6 +9,7 @@ import SetIntervalCom from './Components/SetIntervalCom';
 import Certificate from './Components/Zertifikat/Certificate';
 import NavBar from './Components/NavBar';
 import GoodLuck from './Components/Zertifikat/GoodLuck';
+import Fragebogen from './Components/Zertifikat/Fragebogen';
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
         <Route path='/start' component={Start} />
         <Route path='/Certificate' component={Certificate} />
         <Route path='/goodluck' component={GoodLuck} />
+        <Route path='/Fragebogen' component={Fragebogen} />
       </div>
     </BrowserRouter>
   );

@@ -1,0 +1,46 @@
+[
+    {
+        "frage": "1",
+        "arry": [
+            "opt1",
+            "opt2",
+            "optf",
+            "opt4"
+        ],
+        "antwort": "opt1",
+        "id": 0
+    },
+    {
+        "frage": "Jessica Chastain",
+        "arry": [
+            "opt1",
+            "opt2",
+            "opt3",
+            "opt4"
+        ],
+        "antwort": "opt1",
+        "id": 1
+    },
+    {
+        "frage": "Johnny Depp",
+        "arry": [
+            "opt1",
+            "opt2",
+            "opt3",
+            "opt4"
+        ],
+        "antwort": "opt3",
+        "id": 2
+    },
+    {
+        "frage": "Emilia Clarke",
+        "arry": [
+            "opt1",
+            "opt2",
+            "opt3",
+            "opt4"
+        ],
+        "antwort": "opt2",
+        "id": 3
+    }
+]
