@@ -75,7 +75,7 @@
         "name": "HTML",
         "description": "description-text-für-html-aufgabe-x.y",
         "skillRating": 9,
-        "pictureUrl": "./images/08",
+        "pictureUrl": "./images/10",
         "sourceLink": "./links.js",
         "easy": true
     },
@@ -83,7 +83,7 @@
         "name": "HTML",
         "description": "description-text-für-html-aufgabe-x.y",
         "skillRating": 10,
-        "pictureUrl": "./images/09",
+        "pictureUrl": "./images/11",
         "sourceLink": "./links.js",
         "easy": true
     },
@@ -91,7 +91,7 @@
         "name": "CSS",
         "description": "description-text-für-css-aufgabe-x.y",
         "skillRating": 0,
-        "pictureUrl": "./images/10",
+        "pictureUrl": "./images/12",
         "sourceLink": "./links.js",
         "medium": true
     },
@@ -99,7 +99,7 @@
         "name": "CSS",
         "description": "description-text-für-css-aufgabe-x.y",
         "skillRating": 1,
-        "pictureUrl": "./images/01",
+        "pictureUrl": "./images/13",
         "sourceLink": "./links.js",
         "medium": true
     },
@@ -107,7 +107,7 @@
         "name": "CSS",
         "description": "description-text-für-css-aufgabe-x.y",
         "skillRating": 2,
-        "pictureUrl": "./images/01",
+        "pictureUrl": "./images/14",
         "sourceLink": "./links.js",
         "medium": true
     },
@@ -115,7 +115,7 @@
         "name": "CSS",
         "description": "description-text-für-css-aufgabe-x.y",
         "skillRating": 3,
-        "pictureUrl": "./images/01",
+        "pictureUrl": "./images/15",
         "sourceLink": "./links.js",
         "medium": true
     },
@@ -123,7 +123,7 @@
         "name": "CSS",
         "description": "description-text-für-css-aufgabe-x.y",
         "skillRating": 4,
-        "pictureUrl": "./images/01",
+        "pictureUrl": "./images/16",
         "sourceLink": "./links.js",
         "medium": true
     },
@@ -131,7 +131,7 @@
         "name": "CSS",
         "description": "description-text-für-css-aufgabe-x.y",
         "skillRating": 5,
-        "pictureUrl": "./images/01",
+        "pictureUrl": "./images/17",
         "sourceLink": "./links.js",
         "medium": true
     },
@@ -139,7 +139,7 @@
         "name": "CSS",
         "description": "description-text-für-css-aufgabe-x.y",
         "skillRating": 6,
-        "pictureUrl": "./images/01",
+        "pictureUrl": "./images/18",
         "sourceLink": "./links.js",
         "medium": true
     },
@@ -147,7 +147,7 @@
         "name": "CSS",
         "description": "description-text-für-css-aufgabe-x.y",
         "skillRating": 7,
-        "pictureUrl": "./images/01",
+        "pictureUrl": "./images/19",
         "sourceLink": "./links.js",
         "medium": true
     },
@@ -155,7 +155,7 @@
         "name": "CSS",
         "description": "description-text-für-css-aufgabe-x.y",
         "skillRating": 8,
-        "pictureUrl": "./images/01",
+        "pictureUrl": "./images/20",
         "sourceLink": "./links.js",
         "medium": true
     },
@@ -163,7 +163,7 @@
         "name": "CSS",
         "description": "description-text-für-css-aufgabe-x.y",
         "skillRating": 9,
-        "pictureUrl": "./images/01",
+        "pictureUrl": "./images/21",
         "sourceLink": "./links.js",
         "medium": true
     },
@@ -171,39 +171,39 @@
         "name": "CSS",
         "description": "description-text-für-css-aufgabe-x.y",
         "skillRating": 10,
-        "pictureUrl": "./images/01",
-        "sourceLink": "./links.js",
-        "medium": true
-    },
-    {
-        "name": "JS",
-        "description": "description-text-für-js-aufgabe-x.y",
-        "skillRating": 1,
-        "pictureUrl": "./images/01",
-        "sourceLink": "./links.js",
-        "advanced": true
-    },
-    {
-        "name": "JS",
-        "description": "description-text-für-js-aufgabe-x.y",
-        "skillRating": 2,
-        "pictureUrl": "./images/01",
-        "sourceLink": "./links.js",
-        "advanced": true
-    },
-    {
-        "name": "JS",
-        "description": "description-text-für-js-aufgabe-x.y",
-        "skillRating": 3,
         "pictureUrl": "./images/22",
         "sourceLink": "./links.js",
+        "medium": true
+    },
+    {
+        "name": "JS",
+        "description": "description-text-für-js-aufgabe-x.y",
+        "skillRating": 1,
+        "pictureUrl": "./images/23",
+        "sourceLink": "./links.js",
+        "advanced": true
+    },
+    {
+        "name": "JS",
+        "description": "description-text-für-js-aufgabe-x.y",
+        "skillRating": 2,
+        "pictureUrl": "./images/24",
+        "sourceLink": "./links.js",
+        "advanced": true
+    },
+    {
+        "name": "JS",
+        "description": "description-text-für-js-aufgabe-x.y",
+        "skillRating": 3,
+        "pictureUrl": "./images/25",
+        "sourceLink": "./links.js",
         "advanced": true
     },
     {
         "name": "JS",
         "description": "description-text-für-js-aufgabe-x.y",
         "skillRating": 4,
-        "pictureUrl": "./images/01",
+        "pictureUrl": "./images/26",
         "sourceLink": "./links.js",
         "advanced": true
     },
@@ -211,7 +211,7 @@
         "name": "JS",
         "description": "description-text-für-js-aufgabe-x.y",
         "skillRating": 5,
-        "pictureUrl": "./images/01",
+        "pictureUrl": "./images/27",
         "sourceLink": "./links.js",
         "advanced": true
     },
@@ -235,7 +235,7 @@
         "name": "JS",
         "description": "description-text-für-js-aufgabe-x.y",
         "skillRating": 8,
-        "pictureUrl": "./images/01",
+        "pictureUrl": "./images/28",
         "sourceLink": "./links.js",
         "advanced": true
     },
@@ -243,7 +243,7 @@
         "name": "JS",
         "description": "description-text-für-js-aufgabe-x.y",
         "skillRating": 9,
-        "pictureUrl": "./images/01",
+        "pictureUrl": "./images/29",
         "sourceLink": "./links.js",
         "advanced": true
     },
@@ -251,7 +251,7 @@
         "name": "JS",
         "description": "description-text-für-js-aufgabe-x.y",
         "skillRating": 10,
-        "pictureUrl": "./images/01",
+        "pictureUrl": "./images/30",
         "sourceLink": "./links.js",
         "advanced": true
     }
